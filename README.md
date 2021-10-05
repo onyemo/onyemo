@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onyemo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on Software Dev
 - 📫 How to reach me Onyemoted@gmail.com
 
